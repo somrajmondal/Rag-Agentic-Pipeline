@@ -563,6 +563,8 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
 
 **Somraj Mondal**
+https://github.com/somrajmondal/ 
+https://www.linkedin.com/in/somraj-mondal-7154b81b9/
 
 **AI/ML Engineer | Generative AI | RAG | LangGraph | FastAPI | Vector Databases**
 
